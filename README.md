@@ -4,31 +4,12 @@
 <a href="https://github.com/xue68" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ### Glad to see you here!  
 I'm hands-off with the coding. It's all powered by AII. 
 
 I'm taking the time to pick up some basic programming skills along the way.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
@@ -72,6 +53,5 @@ I'm taking the time to pick up some basic programming skills along the way.
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/59wlTaYOL5tDUgXnbBQ3my?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
