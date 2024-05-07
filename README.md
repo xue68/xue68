@@ -29,13 +29,6 @@ I'm taking the time to pick up some basic programming skills along the way.
 
 <br/>  
 
-  
-
-<br/>  
-
-
-<br />
 
 ----
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/59wlTaYOL5tDUgXnbBQ3my?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/59wlTaYOL5tDUgXnbBQ3my?utm_source=generator" width="250" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
