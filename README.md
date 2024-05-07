@@ -1,6 +1,4 @@
-## Hey 👋, I'm XUE!  
-  
----
+## Hey 👋, I'm XUE!
 
 ### Glad to see you here!  
 I'm hands-off with the coding. It's all powered by AII. 
