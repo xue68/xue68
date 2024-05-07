@@ -25,14 +25,6 @@ I'm taking the time to pick up some basic programming skills along the way.
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-
-
-<br/>  
-
   
 
 <br/>  
